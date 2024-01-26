@@ -18,7 +18,7 @@ body {
 }
 
 .game {
-  height: 60vmin;
+  height: 55vmin;
   width: 60vmin;
   display: flex;
   flex-wrap: wrap;
@@ -59,7 +59,6 @@ body {
   font-size: 35px;
   font-weight: bold;
   text-align: center;
-  margin-top: 20px;
   padding: 10px;
   background-color: #b51212;
   transition: opacity 0.5s ease-in-out;
@@ -102,4 +101,21 @@ body {
 
 .mode-message.playing-friend {
   background-color: #5e0a64;
+}
+
+footer {
+  background-color: #34495e;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }

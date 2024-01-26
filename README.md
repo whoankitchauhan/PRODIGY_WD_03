@@ -46,7 +46,7 @@ The code follows a modular structure:
 
 ## Installation
 
-1. Clone the repository:
+1. gitClone the repository:
 
    ```bash
    git clone https://github.com/your-username/PRODIGY_WD_03.git
@@ -68,6 +68,11 @@ Contributions are welcome! Follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Submit a pull request.
+
+For any questions or further discussions, feel free to contact me:
+
+- **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com)
+- **LinkedIn:** [Ankit Chauhan](www.linkedin.com/in/whoankitchauhan)
 
 ## License
 

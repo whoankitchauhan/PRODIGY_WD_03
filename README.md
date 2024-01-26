@@ -54,7 +54,7 @@ The code follows a modular structure:
 
    ```bash
    git clone https://github.com/your-username/PRODIGY_WD_03.git
-
+   ```
 
 ## Usage
 

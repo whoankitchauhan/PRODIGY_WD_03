@@ -72,7 +72,7 @@ Contributions are welcome! Follow these steps:
 For any questions or further discussions, feel free to contact me:
 
 - **Email:** [whoankitchauhan@gmail.com](mailto:whoankitchauhan@gmail.com)
-- **LinkedIn:** [Ankit Chauhan](www.linkedin.com/in/whoankitchauhan)
+- **LinkedIn:** www.linkedin.com/in/whoankitchauhan
 
 ## License
 

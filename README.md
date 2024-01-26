@@ -14,7 +14,9 @@ A simple yet stylish Tic Tac Toe game implemented in HTML, CSS, and JavaScript.
 
 ## Demo
 
-Include a link to a live demo or screenshots of your game.
+https://whoankitchauhan.github.io/PRODIGY_WD_03/
+
+![Demo](./Demo_Overview.png)
 
 ## Features
 

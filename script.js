@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateModeMessage() {
     modeMessage.textContent = againstComputer
-      ? "Playing against computer"
-      : "Playing against friend";
+      ? "Playing against Computer"
+      : "Playing against Friend";
 
     modeMessage.classList.toggle("playing-computer", againstComputer);
     modeMessage.classList.toggle("playing-friend", !againstComputer);

@@ -19,7 +19,6 @@ https://whoankitchauhan.github.io/PRODIGY_WD_03/
 <p align="center">
   <img src="./Demo_Overview.png" alt="Demo" width="400">
 </p>
-![Demo](./Demo_Overview.png)
 
 ## Features
 

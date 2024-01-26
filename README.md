@@ -50,3 +50,25 @@ The code follows a modular structure:
 
    ```bash
    git clone https://github.com/your-username/PRODIGY_WD_03.git
+
+
+## Usage
+
+1. Open the `index.html` file in a web browser.
+2. Click on the boxes to make your moves.
+3. Use the "Reset Game" button to start a new game.
+4. Click "Play Against Computer" to toggle between playing against a friend and playing against the computer.
+
+## Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature/your-feature`.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.

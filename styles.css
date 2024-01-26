@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #b51212;
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+.container {
+  height: 65vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2vmin;
+}
+.box {
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  font-size: 15vmin;
+  color: black;
+  background-color: aliceblue;
+  transition: transform 0.3s ease-in-out;
+}
+.box:hover {
+  transform: scale(1.05);
+  background-color: #d8f790;
+  transition: background-color 0.1s ease-in-out;
+}
+
+.reset {
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #183d3d;
+  color: white;
+  border-radius: 1rem;
+  border: none;
+}
+
+.reset:hover {
+  background-color: #226666;
+  transform: scale(1.02);
+}
+.message {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #b51212;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.toggle-computer {
+  margin-top: 20px;
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #183d3d;
+  color: white;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+.toggle-computer:hover {
+  background-color: #226666;
+  transform: scale(1.02);
+}
+
+.mode-message {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  background-color: #34495e;
+  padding: 1rem;
+  border-radius: 20px;
+  transition: background-color 0.3s ease-in-out;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mode-message.playing-computer {
+  background-color: #310e85;
+}
+
+.mode-message.playing-friend {
+  background-color: #5e0a64;
+}

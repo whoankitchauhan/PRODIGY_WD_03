@@ -16,7 +16,6 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   let modeMessage = document.querySelector(".mode-message");
 
-  // Function to update the mode message
   function updateModeMessage() {
     modeMessage.textContent = againstComputer
       ? "Playing against computer"
